@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAQ": {
+            "name": "Api Key Info",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1616520662474x886015535370310200/Dominion-Commercial-PropertyAPI-1.0.0-resolved.json"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": "2",
+        "use_jquery": true
+    }
+}

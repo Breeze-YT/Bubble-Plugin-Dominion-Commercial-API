@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "0": "technical"
+    },
+    "description": "For Dominion Commercial Property Listing",
+    "image": "//s3.amazonaws.com/appforest_uf/f1616505662675x187118758474907870/download%20%283%29.png",
+    "license": "open_source",
+    "link": "domcomm.com",
+    "name": "Dominion Commercial API",
+    "plugin_instructions": "Connect The API Keys"
+}
